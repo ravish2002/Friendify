@@ -1,19 +1,3 @@
-# Team Members 
-
-Aryan Pravin Sahoo -- 2020CSB1075
-
-Ashish Virdi -- 2020CSB1077
-
-Shyam Prajapati  -- 2020CSB1110
-
-Prashant Mittal  -- 2020CSB1113
-
-Raj -- 2020CSB1116
-
-Himanshi Nim -- 2019CSB1090
-
-
-
 # Instruction for running server --
 
 1. go into src directory
