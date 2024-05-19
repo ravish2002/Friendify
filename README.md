@@ -14,12 +14,7 @@
 
 
 
-# Addtional -
 
-** We have done flutter testing.
-** For backend testing, we utilized Jest.
-** We have generated a code coverage report, whose screenshot available under the filename "coverage.jpg".
-** All the documatations are available under the directory docs
 
 
 
